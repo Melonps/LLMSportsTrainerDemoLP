@@ -609,7 +609,7 @@ export default function AITrainerLP() {
                 プロトタイピングからスケーリングまで対応可能。
               </p>
               <a
-                href="https://x.com/Melonps_"
+                href="https://www.linkedin.com/in/banri-kakehi-121915351/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center text-black hover:text-gray-600 transition-colors duration-200 text-sm font-light tracking-wide group/link"
