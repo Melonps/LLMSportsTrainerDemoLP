@@ -107,7 +107,7 @@ export default function AITrainerLP() {
         <div className="container mx-auto px-8 py-6">
           <div className="flex items-center justify-between">
             <div className="text-2xl font-light tracking-wide relative group">
-              <span className="relative z-10">AI-Kommo</span>
+              <span className="relative z-10">AI-Kommon</span>
               <div className="absolute inset-0 bg-black opacity-0 group-hover:opacity-10 transition-opacity duration-300 blur-xl"></div>
               <div className="absolute -top-1 -right-8 w-2 h-2 bg-red-500 rounded-full animate-ping"></div>
             </div>
@@ -238,7 +238,7 @@ export default function AITrainerLP() {
                   width="100%"
                   height="100%"
                   src="https://www.youtube.com/embed/H5cZcR3v6XE"
-                  title="AI-Kommo システムデモ動画"
+                  title="AI-Kommon システムデモ動画"
                   frameBorder="0"
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                   allowFullScreen
@@ -686,7 +686,7 @@ export default function AITrainerLP() {
           </h2>
 
           <p className="text-2xl text-gray-300 mb-16 font-extralight tracking-wide">
-            AI-Kommoで、すべての学生に最高の指導体験を
+            AI-Kommonで、すべての学生に最高の指導体験を
           </p>
         </div>
       </section>
@@ -695,7 +695,7 @@ export default function AITrainerLP() {
       <footer className="py-16 border-t border-gray-200 px-8 relative z-10 bg-white">
         <div className="container mx-auto max-w-5xl text-center">
           <p className="text-gray-500 font-light tracking-wide relative">
-            © 2025 AI-Kommo開発チーム
+            © 2025 AI-Kommon開発チーム
             <div className="absolute -top-4 left-1/2 transform -translate-x-1/2 w-12 h-0.5 bg-gradient-to-r from-black via-gray-600 to-black animate-pulse"></div>
           </p>
         </div>
